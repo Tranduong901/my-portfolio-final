@@ -1,0 +1,82 @@
+[
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "SPPU Engg Prep",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dormitory Management Database",
+    "desc": "A Database Course Project focused on designing and normalizing a database to manage student information, room assignments, and registrations.",
+    "image": "kituc",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Gym Management System",
+    "desc": "A Systems Analysis & Design project, modeling business processes, member management, and class schedules for a fitness center.",
+    "image": "gym",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Tourism Website Project",
+    "desc": "An IT Project Management course project, focusing on planning, scope definition, and risk management for developing a tourism website.",
+    "image": "dulich",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coffee Shop Website",
+    "desc": "A Software Engineering course project, developing a web application for a café, likely including features like online menu, ordering, or user management.",
+    "image": "caffe",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
